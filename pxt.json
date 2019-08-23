@@ -1,0 +1,37 @@
+{
+    "name": "pxt-robotsprites",
+    "version": "0.0.6",
+    "description": "Images of Robots",
+    "license": "MIT",
+    "device": "file:../../libs/device",
+    "dependencies": {
+        "screen": "*"
+    },
+    "palette": [
+        "#000000",
+        "#ffffff",
+        "#ff2121",
+        "#ff93c4",
+        "#ff8135",
+        "#fff609",
+        "#249ca3",
+        "#78dc52",
+        "#003fad",
+        "#87f2ff",
+        "#8e2ec4",
+        "#a4839f",
+        "#5c406c",
+        "#e5cdc4",
+        "#91463d",
+        "#000000"
+    ],
+    "files": [
+        "README.md",
+        "robotsprites.ts",
+        "robotsprites.jres"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false
+}
